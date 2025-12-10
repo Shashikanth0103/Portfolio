@@ -23,7 +23,7 @@ This site showcases my projects, skills, and experience in web development.
 
 ## 📸 Screenshots
 
-![Portfolio Home Page](images/portfolio-home.png)
+![Portfolio Home Page](https://github.com/Shashikanth0103/Portfolio/blob/main/images/web_page.png)
 
 ## Purpose
 
@@ -32,4 +32,4 @@ This portfolio represents my journey as a developer and highlights the real-worl
 ## 📬 Contact
 
 Email: shashikanthks017@gmail.com 
-LinkedIn: [[lindkdIN-link](https://www.linkedin.com/in/shashikanth-ks/)
+LinkedIn: www.linkedin.com/in/shashikanth-ks
